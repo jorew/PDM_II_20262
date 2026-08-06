@@ -20,6 +20,12 @@
 ---
 ## Dia 06/08/2026:
 
+Tudo da linguagem
+link [[
+](https://github.com/ricdtaveira/mobdev-parte-01/tree/master)
+- Repositório do Prof Ricardo Taveira.
+
+
 - Dart tem princípios de diversas linguagens fazendo com que a própria linguagem seja bem versátil;
 
 - Multiplataforma;
@@ -36,6 +42,11 @@
 
 - Tradução de "path" = "caminho";
 
+- $ no dart = concatenação de strings;
 
+- ${} = intercolação;
 
+- criar diretório, entrar no diretório, "dart create nome_projeto", entrar no nome_projeto, ls e code .;
+
+- code . = abrir vscode (IDE);
 
