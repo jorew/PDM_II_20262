@@ -21,9 +21,15 @@
 ## Dia 06/08/2026:
 
 - Dart tem princípios de diversas linguagens fazendo com que a própria linguagem seja bem versátil;
+
 - Multiplataforma;
+
 - Usa classes como base para os apps;
-- *Variaveis de ambiente:* valores dinâmicos salvos fora do código de um programa que servem para configurar o comportamento de sistemas e aplicativos. Elas armazenam dados sensíveis como senhas, chaves de API e endereços de bancos de dados, permitindo mudar configurações entre o seu computador e o servidor sem alterar o código-fonte- comando "set", existe a pasta path que diz *aonde* todos os programas foram instalados;
+
+- *Variaveis de ambiente:* valores dinâmicos salvos fora do código de um programa que servem para configurar o comportamento de sistemas e aplicativos. Elas armazenam dados sensíveis como senhas, chaves de API e endereços de bancos de dados, permitindo mudar configurações entre o seu computador e o servidor sem alterar o código-fonte.
+
+- comando "set", existe a pasta path que diz *aonde* todos os programas foram instalados;
+
 - set: mostrar todos os diretórios da máquina;
 
 
