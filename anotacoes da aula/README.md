@@ -32,5 +32,10 @@
 
 - set: mostrar todos os diretórios da máquina;
 
+- SDK: serve para dar run no programa, sua instalação é necessária;
+
+- Tradução de "path" = "caminho";
+
+
 
 
