@@ -50,3 +50,32 @@ link [
 
 - code . = abrir vscode (IDE);
 
+---
+
+## Dia 11/08/2026:
+
+#### Operadores Bit a Bit:
+
+- Trabalhando com número hexedecimal: 0x01; A notação 'x' já define que o valor é hexadecimal;
+
+- A notação '&' = AND, ou seja 'e';
+
+- Álgebra Booleana: 1 com 1 = 1, se tiver um 0 na jogada o número final é 0.
+
+- (x.toRadixString), a lingaugem Dart trabalha como se toda linha de código fosse uma classe (supostamente), e as classes possuem métodos e o toRadix é um deles;
+
+- toRadix: usa a conversão do número em hexadecimal para fazer suas operações;
+
+- Operação em cascata usando StringBuffer(), função que junta palavras ou valores numa mesma variável;
+
+- ~ esta notação é usada para alterar os bits ao contrário demonstrando um novo valor binário, 0 vira 1 e 1 vira 0;
+
+- Se a variável não foi inicializada o seu valor é nulo;
+
+- ? e ?? são operadores de nulidade, ? = "pode ser nulo" e ?? = "Se for nulo";
+
+- .bitLength = Quantos bits são necessários para representar tal valor;
+
+
+
+
