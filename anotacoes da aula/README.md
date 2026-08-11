@@ -21,8 +21,8 @@
 ## Dia 06/08/2026:
 
 Tudo da linguagem
-link [[
-](https://github.com/ricdtaveira/mobdev-parte-01/tree/master)
+link [
+(https://github.com/ricdtaveira/mobdev-parte-01/tree/master)]
 - Repositório do Prof Ricardo Taveira.
 
 
