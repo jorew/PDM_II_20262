@@ -13,7 +13,7 @@
 
 ### sites usados:
 
--  1- [](https://dart.dev/#try-dart)
+-  1- [(https://dart.dev/#try-dart)]
 -  2- Homebrew para a instalação do Flutter (infelizmente, não efetivada).
 
   
