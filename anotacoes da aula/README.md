@@ -75,6 +75,34 @@ link [
 - ? e ?? são operadores de nulidade, ? = "pode ser nulo" e ?? = "Se for nulo";
 
 - .bitLength = Quantos bits são necessários para representar tal valor;
+---
+
+## Dia 13/08/2026:
+
+### Testando Mecânicas do Dart
+
+- >> andar para direita e << andar para esquerda;
+
+- Deslocamento(<< >>);
+
+- Entender o comportamento do for, switch-case, while e do-while.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
