@@ -88,12 +88,41 @@ link [
 - Entender o comportamento do for, switch-case, while e do-while.
 
 
+## Dia 18/08/2026:
+
+#### Anotações:
+
+- late: uma variável que será inicializada tardiamente;
+- 'dynamic' no lugar do 'var' significa que o valor da variável pode mudar um número significativo de vezes;
+- inferencia: atribuição de tipo, uma variável assume o tipo da última atribuição;
 
 
+> Dart, também possui tipos double, num e int;>
+> num, pode assumir valor de tipos double e int, diferente dos outros. Por exemplo: int não pode ser igual à double;>
 
+#### Buffer:
+> Buffer: concatena strings numa mesma frase; > 
+> String: pode assumir diferentes valores; >
+> Quando ocorre a mudança de valor numa variável string - na prática, acontece que a String muda de destino para um outro valor;>
 
+#### Listas:
 
+- List = [] (estrutura principal);
+- Colocar tipos da lista usando List<tipo_da_lista>;
+- também existe remove;
+- {} = objeto;
+- Dicionário -> lista de objetos;
+- map -> objeto + tipo.
 
+#### Set:
+> Set = conjunto;>
+- Em conjunto, não há repetição de elementos e ambos os componentes de um conjunto tem tipos semelhantes/iguais;
+- Para acessar um valor específico de um set de string se usa elementAt();
+
+#### Queue:
+> Fila;>
+
+- Declarada a partir de uma lista
 
 
 
