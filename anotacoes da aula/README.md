@@ -125,13 +125,38 @@ link [
 - Declarada a partir de uma lista
 
 #### Funções:
+-> O de sempre;
+
+---
+
+## 20/08/2026:
+
+### Anotações: 
+#### POO: os mesmos conceitos vistos na linguagem de programação java;
+- Classe -> modularização com membros (variáveis e métodos da própria classe);
+- Membros -> elementos compositores da classe;
+- Métodos -> funções da classe;
 
 
+##### Em Dart:
 
+- Private: - no começo dos atributos + encapsulamento;
+- Get (acessador): mesma coisa do Java;
+- Set: mesma coisa do java;
+- Late: sem valor, equivalente ao null em java;
 
+- this -> acessa a referência do atributo (valor dos atributos);
 
+- Static:
+> Atributos Static: todos veem, é visível para todos. > 
 
+- Método Construtor:
+> Inicializar atributos e métodos da classe. >
 
+- Getters e Setters:
+> Métodos da interface da classe, permitem a modificação de atributos da classe/objeto. >
+
+---
 
 
 
