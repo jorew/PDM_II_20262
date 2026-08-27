@@ -140,7 +140,7 @@ link [
 
 ##### Em Dart:
 
-- Private: - no começo dos atributos + encapsulamento;
+- Private ('_' inicial): - no começo dos atributos + encapsulamento;
 - Get (acessador): mesma coisa do Java;
 - Set: mesma coisa do java;
 - Late: sem valor, equivalente ao null em java;
@@ -158,6 +158,22 @@ link [
 
 ---
 
+## 27/08/2026:
+
+### Mixin:
+- Classe acoplada: usa as funcionalidades de uma classe sem precisar de herança;
+
+### Enum:
+- Pendente, completado, rejeitado. Enumeração que, em outras linguagens (exemplo: UML) é usada para representar status de algo ou alguém;
+- Em Dart, se usa switchcase como forma de IF/ELSE quando vai se tratar de enumeração;
+
+### Object .json:
+- Json: representar um objeto e suas dependências (atributos) na forma de json, geralmente em um arquivo: package.json;
+- JSON: javascript object notation, dados da internet;
+- map -> transforma em um arquivo.json;
+- jsonEncode(): transforma strings em json;
+- Object Json: mapa (mapa.dart -> tópico coleções do github)
+  >revisão: mapa (map) é um conjunto de elementos e seus respectivos valores>
 
 
 
