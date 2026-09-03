@@ -46,6 +46,9 @@ link [
 
 - ${} = intercolação;
 
+
+### B+A = BA
+
 - criar diretório, entrar no diretório, "dart create nome_projeto", entrar no nome_projeto, ls e code .;
 
 - code . = abrir vscode (IDE);
@@ -174,6 +177,61 @@ link [
 - jsonEncode(): transforma strings em json;
 - Object Json: mapa (mapa.dart -> tópico coleções do github)
   >revisão: mapa (map) é um conjunto de elementos e seus respectivos valores>
+
+---
+
+## 03/09/2026:
+
+### Vocabulário:
+- assync = assincrona (algo que não acontece no mesmo tempo);
+
+
+
+### Anotações de IA
+> O tratamento de exceções evita que o seu aplicativo feche sozinho quando ocorre um erro. >
+
+- throw (Lançar): Dispara o alerta de erro quando algo dá errado (ex: idade negativa).
+
+- try (Tentar): Isola o trecho de código que tem risco de falhar.
+
+- catch (Capturar): Pega o erro disparado pelo try (armazenado na variável e) para que você possa tratá-lo com segurança, como exibindo um print(e).
+
+> Em resumo: o try tenta rodar o código, o throw acusa a falha e o catch resolve o problema sem deixar o programa quebrar. >
+
+
+### Dart:io
+> Biblioteca que possui funções para manipular Io = I/O>
+
+### pubspec.yaml
+> Dependências requeridas para o projeto. >
+- exemplificação: package.json;
+- Existem códigos que são necessários a implementação da dependência do http.
+
+### Parse:
+> Ler dados ou códigos e transformá-los em um formato que o sistema consiga entender e usar. >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
