@@ -210,13 +210,28 @@ link [
 ### Parse:
 > Ler dados ou códigos e transformá-los em um formato que o sistema consiga entender e usar. >
 
+---
 
+## 15/09/2026:
 
+### Vocabulário de Comandos:
+- .delayed(seconds: ); = simular uma demora;
+- await = pausar;
 
+- Future<type> = futuramente irá revelar um valor do tipo definido em <type>;
 
+- FetchUserData = Fetch User Data (buscar dados do usuário) em Dart significa realizar uma operação assíncrona para obter informações de um usuário a partir de uma fonte externa, como uma API REST, um banco de dados remoto (por exemplo, Firebase) ou um servidor local;
 
+- Callback, está obsoleto dentro do dart;
 
+- Thread = sequencia de instruções que pode ser executada por outras instruções dentro de um programa;
+- Biblioteca de thread = dart:isolate;
 
+- O sistema Operacional é o escalonador de threads;
+
+- isolate = é uma unidade independente de execução de código que possui sua própria memória privada e um único loop de eventos;
+
+- transform = manipula o valor da variável e converte esse valor para servir a outra variável;
 
 
 
