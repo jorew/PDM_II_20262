@@ -233,6 +233,15 @@ link [
 
 - transform = manipula o valor da variável e converte esse valor para servir a outra variável;
 
+---
+
+## 06/10/2026:
+# Flutter
+> Flutter serve para desenvolvimento de aplicações para android.
+### Tipos:
+  > Material e Cupertino;
+  > Inspirados em Widgets (janelas);
+  > Slider = deslizador;
 
 
 
