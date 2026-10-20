@@ -244,6 +244,14 @@ link [
   > Slider = deslizador;
 
 
+---
+
+## 20/10/2026:
+### B+A = BA:
+> (Primeira Forma):
+> control + shift + p = abrir menu do vscode que permeabiliza a criação de um novo projeto flutter.
+
+> comando pelo terminal: Flutter create.
 
 
 
