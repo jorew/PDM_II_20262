@@ -253,9 +253,26 @@ link [
 
 > comando pelo terminal: Flutter create.
 
+---
 
+## 10/11/2026:
+### Anotações de Navegação e Rotas
+- Navigator
+> Fazer a navegação usando botões que ao serem clicados acionam funções que direcionam para outras sessões, o básico é que tenha embutido no código formas de sair de uma sessão e retornar para a mesma. 
 
+> Child = filho
+> push = falso cognato "empurrar" no inglês
+> Referência: [
+](https://api.flutter.dev/flutter/widgets/Navigator-class.html?_gl=1*foceer*_gcl_au*MTgzNDU3NDMwMi4xNzk0MzM4NjI3*_ga*ODA0ODcwOTM1LjE3OTQzMzg2Mjc.*_ga_04YGWK0175*czE3OTQzMzg2MjckbzEkZzEkdDE3OTQzMzg2NTQkajMzJGwwJGgw)
 
+- Rotas
+> rotas são recursos dentro de um ecossistema dentro do programa que por meio de protocolos HTTP/HTTPS que viabilizam o visualizar de diferentes views (telas). Funcionam como localização exata de um espaço de forma rígida dentro de um mapa (explicação geográfica). 
+> Onetep = Onclick.
+> Scaffold = Area que representa a tela em si com seus elementos.
+> rotas nomeadas estão obsoletas.
+
+> referência de navegação: [
+](https://docs.flutter.dev/cookbook/navigation/navigation-basics) 
 
 
 
